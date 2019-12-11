@@ -3,5 +3,17 @@ img {
     height: 70px;
 }
 body {
-    background-image: 
+    background-image: url("../snow-4666831_1920.jpg")
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+a {
+    margin-right: 20px;
+    padding: 20px;
+}
+.header .twitter-follow-button {
+    margin-top: 7%;
+    margin-right: 30px;
 }

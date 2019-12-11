@@ -4,9 +4,9 @@ body {
     grid-template-rows: 20% 80%;
     background-color: gray;
 }
-img {
-    width: 50%;
-    height: auto;
+iframe {
+    width: 70%;
+    height: 70%;
     grid-column: 2/3;
     grid-row: 2/3;
     margin-left: auto;
